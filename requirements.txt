@@ -1,0 +1,14 @@
+requests
+pytest
+selenium
+playwright
+webdriver-manager # Para facilitar o gerenciamento de drivers do Selenium
+
+# Para logging mais avançado, se necessário:
+# python-json-logger
+
+# Adicione versões específicas se necessário, por exemplo:
+# requests==2.28.1
+# pytest==7.1.2
+# selenium==4.4.3
+# playwright==1.25.0
